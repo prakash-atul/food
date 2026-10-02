@@ -1,0 +1,9 @@
+# One YouTube CHANNEL or PLAYLIST URL per line. Lines starting with # are ignored.
+# Channel examples:
+#   https://www.youtube.com/@kashmirfoodfusion/videos
+#   @kashmirfoodfusion
+# Playlist example:
+#   https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxx
+
+https://www.youtube.com/@kashmirfoodfusion/videos
+https://www.youtube.com/@GoodtoEatOdia/videos
