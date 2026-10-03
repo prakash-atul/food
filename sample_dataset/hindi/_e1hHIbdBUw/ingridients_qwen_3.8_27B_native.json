@@ -1,0 +1,117 @@
+{
+ "video_id": "_e1hHIbdBUw",
+ "model": "qwen_3.8_27B",
+ "source": "native",
+ "ingredients": [
+  {
+   "scientific_name": "Cicer arietinum",
+   "english_name": "chickpeas",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "water",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "tea leaves",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "spices",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "herbs (bouquet garni)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "ginger",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "garlic",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "salt",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Cuminum cyminum",
+   "english_name": "cumin",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Coriandrum sativum",
+   "english_name": "coriander seeds",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Zingiber officinale",
+   "english_name": "ginger powder",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Allium sativum",
+   "english_name": "garlic powder",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "red chilli powder",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "turmeric powder",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "garam masala",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "amchur (dried mango powder)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "pomegranate seeds (anardana)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "tomato paste/puree",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "onion paste/puree",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "oil/ghee (clarified butter)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "green chillies (for garnish)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "coriander leaves (for garnish)",
+   "native_name": ""
+  }
+ ]
+}

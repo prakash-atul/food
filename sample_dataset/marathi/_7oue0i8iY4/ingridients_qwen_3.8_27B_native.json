@@ -1,0 +1,72 @@
+{
+ "video_id": "_7oue0i8iY4",
+ "model": "qwen_3.8_27B",
+ "source": "native",
+ "ingredients": [
+  {
+   "scientific_name": "",
+   "english_name": "oil",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Capsicum annuum",
+   "english_name": "green chilli",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Allium sativum",
+   "english_name": "garlic paste",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Allium cepa",
+   "english_name": "onion",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "salt",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "turmeric powder",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "coriander powder",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "red chilli powder",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "'sambhar masala' (or 'dhansak masala')",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "'tomato'",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "'Coriandrum sativum'",
+   "english_name": "'coriander leaves'",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "'water'",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "'paneer'",
+   "native_name": ""
+  }
+ ]
+}

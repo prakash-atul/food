@@ -1,0 +1,99 @@
+{
+  "video_id": "_e1hHIbdBUw",
+  "channel": "Indian_cuisine",
+  "title": "Amritsari Chole recipe | अमृतसरी छोले | Spicy Chhole Masala | पंजाबी छोले मसाला । Chef Ranveer Brar",
+  "dish_title": "Amritsari Chole",
+  "is_cooking": true,
+  "cooking_source": "description",
+  "n_ingredients": 22,
+  "ingredients": [
+    {
+      "english": "chickpea",
+      "scientific": "Cicer arietinum"
+    },
+    {
+      "english": "ginger",
+      "scientific": "Zingiber officinale"
+    },
+    {
+      "english": "garlic",
+      "scientific": "Allium sativum"
+    },
+    {
+      "english": "cinnamon",
+      "scientific": "Cinnamomum verum"
+    },
+    {
+      "english": "bay leaf",
+      "scientific": "Laurus nobilis"
+    },
+    {
+      "english": "chili pepper",
+      "scientific": "Capsicum annuum"
+    },
+    {
+      "english": "black cardamom",
+      "scientific": "Amomum subulatum"
+    },
+    {
+      "english": "clove",
+      "scientific": "Syzygium aromaticum"
+    },
+    {
+      "english": "peppercorn",
+      "scientific": "Piper nigrum"
+    },
+    {
+      "english": "tea leaf",
+      "scientific": "Camellia sinensis"
+    },
+    {
+      "english": "salt",
+      "scientific": ""
+    },
+    {
+      "english": "water",
+      "scientific": ""
+    },
+    {
+      "english": "coriander seed",
+      "scientific": "Coriandrum sativum"
+    },
+    {
+      "english": "cumin seed",
+      "scientific": "Cuminum cyminum"
+    },
+    {
+      "english": "asafoetida",
+      "scientific": "Ferula assa-foetida"
+    },
+    {
+      "english": "mango powder",
+      "scientific": "Mangifera indica"
+    },
+    {
+      "english": "carom seed",
+      "scientific": "Trachyspermum ammi"
+    },
+    {
+      "english": "oil",
+      "scientific": ""
+    },
+    {
+      "english": "onion",
+      "scientific": "Allium cepa"
+    },
+    {
+      "english": "tomato",
+      "scientific": "Solanum lycopersicum"
+    },
+    {
+      "english": "ghee",
+      "scientific": ""
+    },
+    {
+      "english": "coriander leaf",
+      "scientific": "Coriandrum sativum"
+    }
+  ]
+}

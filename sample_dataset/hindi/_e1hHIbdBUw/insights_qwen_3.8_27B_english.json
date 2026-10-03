@@ -1,0 +1,308 @@
+{
+ "video_id": "_e1hHIbdBUw",
+ "transcript_language": "English (translated from Hindi (ASR))",
+ "dish": {
+  "name": "Amritsari Chole",
+  "native_name": "Amritsari Chole",
+  "region": "Amritsar, Punjab",
+  "community": "Punjabi",
+  "occasion": null
+ },
+ "process": {
+  "steps": [
+   {
+    "step_no": 1,
+    "description": "Soak chickpeas overnight (at least 10 hours).",
+    "techniques": [
+     "soaking"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": "overnight / at least 10 hours",
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "You have to soak them overnight, meaning at least ten hours"
+   },
+   {
+    "step_no": 2,
+    "description": "Prepare a spice pouch (bouquet garni) with tea leaves, spices, ginger, and garlic.",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [
+     "spice pouch"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "put all the spices inside the pouch... add ginger... add two cloves of garlic"
+   },
+   {
+    "step_no": 3,
+    "description": "Cook chickpeas in a pressure cooker with water and the spice pouch until they double in size.",
+    "techniques": [
+     "boiling",
+     "pressure cooking"
+    ],
+    "utensils": [
+     "pressure cooker"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": "chickpeas are double the size",
+    "timestamp": null,
+    "evidence": "The chole is in the cooker now... The chickpeas are double the size now"
+   },
+   {
+    "step_no": 4,
+    "description": "Fry onions in an iron skillet until they start to brown.",
+    "techniques": [
+     "frying"
+    ],
+    "utensils": [
+     "iron skillet"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": "onions start to brown",
+    "timestamp": null,
+    "evidence": "fry the onions until the onions start to brown"
+   },
+   {
+    "step_no": 5,
+    "description": "Blend fresh tomatoes into a fine paste.",
+    "techniques": [
+     "blending"
+    ],
+    "utensils": [
+     "blender/mixer"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "take fresh tomatoes, either in a blender or a mixer, and make a very fine paste"
+   },
+   {
+    "step_no": 6,
+    "description": "Add roasted spices to the frying onions, then add tomato paste and water, frying until oil separates.",
+    "techniques": [
+     "frying",
+     "roasting"
+    ],
+    "utensils": [
+     "iron skillet"
+    ],
+    "heat_level": "reduce gas",
+    "duration": null,
+    "doneness_cue": "oil has separated",
+    "timestamp": null,
+    "evidence": "when you feel that it's roasted... the oil has separated, then reduce the gas"
+   },
+   {
+    "step_no": 7,
+    "description": "Add the cooked chickpeas and the spice pouch to the masala. Boil for 5-7 minutes to mix flavors.",
+    "techniques": [
+     "boiling",
+     "mixing"
+    ],
+    "utensils": [
+     "kadai"
+    ],
+    "heat_level": null,
+    "duration": "5 to 7 minutes",
+    "doneness_cue": "flavors are mixed",
+    "timestamp": null,
+    "evidence": "At least, if not five to seven minutes, we boil it until all the flavors are mixed"
+   },
+   {
+    "step_no": 8,
+    "description": "Thicken the gravy by sipping a portion of the chickpea gravy (implied grinding/pureeing) and adding it back, or using a thickener with slight sweetness.",
+    "techniques": [
+     "thickening"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "take a sip of it... the second thickness will come in the chickpea gravy"
+   },
+   {
+    "step_no": 9,
+    "description": "Finish with ghee to cover bitterness, and garnish with green chilies, ginger slices, and coriander.",
+    "techniques": [
+     "finishing",
+     "garnishing"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "trick of finishing with ghee... add green chilies and ginger slices... coriander"
+   }
+  ],
+  "techniques": [
+   {
+    "name": "soaking",
+    "native_term": null,
+    "category": "soaking_resting",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "You have to soak them overnight"
+   },
+   {
+    "name": "pressure cooking",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "The chole is in the cooker now"
+   },
+   {
+    "name": "frying",
+    "native_term": null,
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "fry the onions until the onions start to brown"
+   },
+   {
+    "name": "blending",
+    "native_term": null,
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "make a very fine paste"
+   },
+   {
+    "name": "boiling",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "we boil it until all the flavors are mixed"
+   },
+   {
+    "name": "thickening",
+    "native_term": null,
+    "category": "assembly_serving",
+    "timestamps": [],
+    "evidence_type": "implied",
+    "evidence": "We'll thicken the gravy a bit"
+   }
+  ]
+ },
+ "utensils_and_equipment": [
+  {
+   "name": "pressure cooker",
+   "native_term": null,
+   "category": "cookware",
+   "type": "modern",
+   "material": null,
+   "purpose": "Cooking chickpeas",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "The chole is in the cooker now"
+  },
+  {
+   "name": "spice pouch",
+   "native_term": "bouquet garni",
+   "category": "prep_tool",
+   "type": "traditional",
+   "material": "cloth",
+   "purpose": "Holding spices and ginger during cooking",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "put all the spices inside the pouch"
+  },
+  {
+   "name": "iron skillet",
+   "native_term": null,
+   "category": "cookware",
+   "type": "traditional",
+   "material": "iron",
+   "purpose": "Frying onions and masala",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "Especially if you're using an iron skillet"
+  },
+  {
+   "name": "blender/mixer",
+   "native_term": null,
+   "category": "prep_tool",
+   "type": "modern",
+   "material": null,
+   "purpose": "Making tomato paste",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "either in a blender or a mixer"
+  },
+  {
+   "name": "kadai",
+   "native_term": "kadai",
+   "category": "cookware",
+   "type": "traditional",
+   "material": null,
+   "purpose": "Serving/cooking large quantity",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "take a slightly larger kadai"
+  }
+ ],
+ "health_benefits": [],
+ "sustainability_practices": [],
+ "unique_aspects": [
+  {
+   "aspect": "Use of tea leaves for color and flavor",
+   "category": "regional_flavor",
+   "description": "Tea leaves are added to the spice pouch to give the chole a distinctive dark color and flavor, specific to Amritsari style.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "the color of the tea leaves won't transfer to the chickpeas"
+  },
+  {
+   "aspect": "No onions in homemade Amritsari Chole",
+   "category": "ingredient_combination",
+   "description": "Unlike market or Pindi chole, traditional homemade Amritsari chole does not use onions, relying on spices and tea for depth.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "this is the homemade kind, and that's why onions aren't added to it"
+  },
+  {
+   "aspect": "Ghee used to mask bitterness",
+   "category": "flavor_balancing",
+   "description": "Ghee is added at the end specifically to cover the potential bitterness of the spices and tea leaves.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "it covers the bitterness of the spices"
+  },
+  {
+   "aspect": "Sourness from amchur or pomegranate, not tamarind",
+   "category": "regional_flavor",
+   "description": "Traditional Amritsari chole uses amchur (dried mango powder) or pomegranate seeds for sourness, avoiding tamarind which is considered foreign to this specific style.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "in Amritsar, tamarind isn't usually used"
+  },
+  {
+   "aspect": "Water from Amritsar",
+   "category": "other",
+   "description": "The speaker claims the unique water from Amritsar is essential for the authentic taste, even mentioning water tankers for dhabas.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "water from Amritsar is unique and you won't find it anywhere else"
+  }
+ ],
+ "extraction_notes": {
+  "asr_issues": [
+   "The term 'Imdadasta' or 'Imam Dasta' is mentioned in the context of cutting ginger, which is likely an ASR error for a tool or a specific technique, but the context suggests a warning about cutting hands.",
+   "The phrase 'beat the chole with a whistle' is likely a mistranslation or ASR error for 'cook the chole until the pressure cooker whistles'."
+  ],
+  "ambiguities": [
+   "The step for thickening the gravy mentions 'take a sip of it' and 'don't put it in the mixer', which is ambiguous. It likely implies taking a portion of the cooked chickpeas, grinding them, and adding them back to thicken the gravy, a common technique, but the transcript is phrased oddly."
+  ]
+ }
+}

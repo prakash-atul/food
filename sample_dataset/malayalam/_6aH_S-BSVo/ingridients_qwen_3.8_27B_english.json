@@ -1,0 +1,137 @@
+{
+ "video_id": "_6aH_S-BSVo",
+ "model": "qwen_3.8_27B",
+ "source": "english",
+ "ingredients": [
+  {
+   "scientific_name": "Oryza sativa",
+   "english_name": "rice",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Gallus gallus domesticus",
+   "english_name": "chicken",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Allium cepa",
+   "english_name": "onion",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Allium sativum",
+   "english_name": "garlic",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Zingiber officinale",
+   "english_name": "ginger",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "green chilli",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "dried chilli",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "(green) cardamom pods",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Syzygium aromaticum",
+   "english_name": "cloves",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Cinnamomum verum",
+   "english_name": "cinnamon",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Myristica fragrans",
+   "english_name": "nutmeg",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Cuminum cyminum",
+   "english_name": "cumin seeds",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Foeniculum vulgare",
+   "english_name": "fennel seeds",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "black cardamom pods",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Coriandrum sativum",
+   "english_name": "coriander seeds (whole)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "pepper powder (black pepper)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "chili powder (red)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "piri chili powder (bird's eye chili powder)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Curcuma longa",
+   "english_name": "turmeric powder",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "salt",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "tomato",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "yogurt",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "ghee",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "oil",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "coriander leaves",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "mint leaves",
+   "native_name": ""
+  }
+ ]
+}

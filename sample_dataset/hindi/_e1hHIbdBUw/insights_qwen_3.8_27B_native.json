@@ -1,0 +1,312 @@
+{
+ "video_id": "_e1hHIbdBUw",
+ "transcript_language": "Hindi (ASR)",
+ "dish": {
+  "name": "Amritsari Chole",
+  "native_name": "अमृतसरि छोले",
+  "region": "Punjab (Amritsar)",
+  "community": "Punjabi",
+  "occasion": null
+ },
+ "process": {
+  "steps": [
+   {
+    "step_no": 1,
+    "description": "Soak chana (chickpeas) overnight for at least 10 hours.",
+    "techniques": [
+     "soaking"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": "overnight / 10 hours",
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "छोले जो है ना उनको कम से कम ओवरनाइट सोक करना है"
+   },
+   {
+    "step_no": 2,
+    "description": "Prepare a 'potli' (bunch garni) with tea leaves and spices.",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "एक बनानी है पोटली ठीक है पोटल के अंदर डाल लेने सारे मसाला"
+   },
+   {
+    "step_no": 3,
+    "description": "Add chana, crushed ginger, garlic, and the potli to the cooker. Add water (double the amount of chana) and salt. Do not add ghee yet.",
+    "techniques": [
+     "mixing",
+     "boiling"
+    ],
+    "utensils": [
+     "pressure cooker"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "छोले गए कुकर में अब इसमें डालना है अदरक मोटा मोटा काट के"
+   },
+   {
+    "step_no": 4,
+    "description": "Fry onions in a kadai until browned.",
+    "techniques": [
+     "frying"
+    ],
+    "utensils": [
+     "kadai"
+    ],
+    "heat_level": "low",
+    "duration": null,
+    "doneness_cue": "browning of onions",
+    "timestamp": null,
+    "evidence": "प्याज को भूनना है तब तक कि जब तक प्याज की ब्राउनिनेस चालू ना हो जाए"
+   },
+   {
+    "step_no": 5,
+    "description": "Grind fresh tomatoes into a fine paste.",
+    "techniques": [
+     "grinding"
+    ],
+    "utensils": [
+     "mixer"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "ताजा टमाट को या तो घुमक्कड़ में या मिकसी में डालो और ऐसे एकदम फाइन पेस्ट कर लीया"
+   },
+   {
+    "step_no": 6,
+    "description": "Add ground spices to the fried onions. Fry until cumin is light and aroma rises. Add tomato paste.",
+    "techniques": [
+     "frying",
+     "mixing"
+    ],
+    "utensils": [
+     "kadai"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "aroma of spices, oil separation",
+    "timestamp": null,
+    "evidence": "जब हल्का सा धनिया भुन जाए तुरंत के तुरत डाल दीजिए"
+   },
+   {
+    "step_no": 7,
+    "description": "Fry the tomato-masala mixture, spraying water to prevent burning and develop color. Reduce heat.",
+    "techniques": [
+     "frying",
+     "simmering"
+    ],
+    "utensils": [
+     "kadai"
+    ],
+    "heat_level": "low",
+    "duration": null,
+    "doneness_cue": "oil separates, color develops",
+    "timestamp": null,
+    "evidence": "पानी का छींटा मारें और भून भूँतते रहें पानी का छींटा मारे"
+   },
+   {
+    "step_no": 8,
+    "description": "Add the boiled chana and the juice from the potli to the masala. Simmer for 5-7 minutes.",
+    "techniques": [
+     "mixing",
+     "simmering"
+    ],
+    "utensils": [
+     "kadai"
+    ],
+    "heat_level": "medium",
+    "duration": "5-7 minutes",
+    "doneness_cue": "flavors mix",
+    "timestamp": null,
+    "evidence": "इसको कम से कम नहीं तो पाँच से सात मिनट उबालते हैं"
+   },
+   {
+    "step_no": 9,
+    "description": "Mash a quarter of the chana to thicken the gravy. Do not use a mixer for this.",
+    "techniques": [
+     "mashing"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": "gravy thickens",
+    "timestamp": null,
+    "evidence": "छोले को तो एक चौथाई बोल घोंट लीजिए और मिकसी उकसी में मत डालीए"
+   },
+   {
+    "step_no": 10,
+    "description": "Finish with ghee to cover bitterness and add richness. Garnish with green chilies, ginger, and coriander.",
+    "techniques": [
+     "finishing",
+     "garnishing"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "घी से फिनिश करने वाली ट्रिक जो है मैं किसी को बताता नहीं हूँ"
+   }
+  ],
+  "techniques": [
+   {
+    "name": "soaking",
+    "native_term": null,
+    "category": "soaking_resting",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "छोले जो है ना उनको कम से कम ओवरनाइट सोक करना है"
+   },
+   {
+    "name": "boiling",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "छोले गए कुकर में अब इसमें डालना है अदरक"
+   },
+   {
+    "name": "frying",
+    "native_term": "भूनना",
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "प्याज को भूनना है तब तक कि जब तक प्याज की ब्राउनिनेस चालू ना हो जाए"
+   },
+   {
+    "name": "grinding",
+    "native_term": null,
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "ताजा टमाट को या तो घुमक्कड़ में या मिकसी में डालो"
+   },
+   {
+    "name": "mashing",
+    "native_term": "घोंटना",
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "छोले को तो एक चौथाई बोल घोंट लीजिए"
+   },
+   {
+    "name": "simmering",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "इसको कम से कम नहीं तो पाँच से सात मिनट उबालते हैं"
+   }
+  ]
+ },
+ "utensils_and_equipment": [
+  {
+   "name": "Pressure Cooker",
+   "native_term": "कुकर",
+   "category": "cookware",
+   "type": "modern",
+   "material": null,
+   "purpose": "Boiling chana",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "छोले गए कुकर में अब इसमें डालना है अदरक"
+  },
+  {
+   "name": "Kadai",
+   "native_term": "कड़ाही",
+   "category": "cookware",
+   "type": "traditional",
+   "material": "iron (लोहा)",
+   "purpose": "Frying onions and masala",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "खासतौर अगर आप लोहे की कड़ाही ले रहे हैं"
+  },
+  {
+   "name": "Mixer Grinder",
+   "native_term": "मिकसी",
+   "category": "prep_tool",
+   "type": "modern",
+   "material": null,
+   "purpose": "Grinding tomatoes",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "ताजा टमाट को या तो घुमक्कड़ में या मिकसी में डालो"
+  },
+  {
+   "name": "Ghumakkad",
+   "native_term": "घुमक्कड़",
+   "category": "prep_tool",
+   "type": "traditional",
+   "material": null,
+   "purpose": "Grinding tomatoes",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "ताजा टमाट को या तो घुमक्कड़ में या मिकसी में डालो"
+  }
+ ],
+ "health_benefits": [],
+ "sustainability_practices": [],
+ "unique_aspects": [
+  {
+   "aspect": "Use of 'Potli' (Bouquet Garni) with tea leaves",
+   "category": "indigenous_technique",
+   "description": "A bundle of tea leaves and spices is added to the boiling chana to impart color and flavor, a technique the speaker claims is traditional in Amritsar homes despite French chefs calling it 'bouquet garni'.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "फ्रेंच जो लोग हैं फ्रेंच जो शेफ्स हैं उन्होंने एक ईजाद करी है वो ईजाज है हरब्स की पोटली"
+  },
+  {
+   "aspect": "No Ghee in Pressure Cooker",
+   "category": "texture_technique",
+   "description": "Ghee is deliberately omitted during the pressure cooking stage because it coats the chana and prevents the tea leaves from coloring the chickpeas.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "घी अगर अभी डाल दिया तो छोले पर रंग नहीं चढ़ेगा क्योंकि घी जो है वो छोले को कोट कर लेगा"
+  },
+  {
+   "aspect": "Mashing Chana for Gravy",
+   "category": "texture_technique",
+   "description": "A portion of the cooked chana is manually mashed ('ghont') to thicken the gravy, rather than using a mixer, to achieve the desired consistency and sweetness.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "छोले को तो एक चौथाई बोल घोंट लीजिए और मिकसी उकसी में मत डालीए"
+  },
+  {
+   "aspect": "Ghee to Mask Bitterness",
+   "category": "flavor_balancing",
+   "description": "Ghee is added at the end to coat the spices and mask any bitterness from over-frying or tea leaves.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "घी जो है तो मसाले की कड़वाहट को कवर कर लेता है कोट कर लेते हैं"
+  },
+  {
+   "aspect": "Distinction between Amritsari and Pindi Chole",
+   "category": "regional_flavor",
+   "description": "The speaker clarifies that Amritsari Chole (home-style, no onion in street version) is distinct from Pindi Chole (Rawalpindi), and 'Amritsari Pindi Chole' is a marketing confusion.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "अमृतसर के छोले रावलपिंडी के छोले अलग अलग होते हैं"
+  }
+ ],
+ "extraction_notes": {
+  "asr_issues": [
+   "The ASR transcript contains several phonetic approximations of English words (e.g., 'bunch garni' for 'bouquet garni', 'ghumakkad' for 'ghumakkad' or similar traditional grinder, 'imam dasta' for 'imam dasta' or similar tool/term).",
+   "The term 'Imam Dasta' is mentioned in the context of crushing ginger without cutting hands, but the specific tool is not clearly identified in standard culinary terms, possibly a local or misheard term for a crushing tool."
+  ],
+  "ambiguities": [
+   "The exact composition of the 'potli' other than tea leaves and 'masala' is not fully detailed, though it is compared to a French bouquet garni.",
+   "The specific type of 'masala' (ground spices) added to the kadai is not listed individually, only referred to as 'masala' and 'dhaniya' (cumin)."
+  ]
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "video_id": "_6aH_S-BSVo",
+ "transcript_language": "English (translated from Malayalam ASR)",
+ "dish": {
+  "name": "Chicken Yakhni Pulao",
+  "native_name": "Yakhni Pulao",
+  "region": "India (implied by Malayalam context and Trivandrum mention)",
+  "community": null,
+  "occasion": "Lunch"
+ },
+ "process": {
+  "steps": [
+   {
+    "step_no": 1,
+    "description": "Wash and soak sel rice for at least two hours.",
+    "techniques": [
+     "soaking"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": "2 hours",
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "I took four cups of rice... and soaked it... If it soaks for at least two hours"
+   },
+   {
+    "step_no": 2,
+    "description": "Combine chicken pieces, chopped onions, crushed garlic, crushed ginger, green chilies, whole spices, ground spices, and tomatoes in a pot.",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [
+     "pot"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "I am going to add a lot of things to a pot, like chicken pieces... two onions... garlic... ginger... green chilies"
+   },
+   {
+    "step_no": 3,
+    "description": "Add water to the pot, cover with a lid, and boil until the chicken is cooked.",
+    "techniques": [
+     "boiling"
+    ],
+    "utensils": [
+     "pot",
+     "lid"
+    ],
+    "heat_level": "high",
+    "duration": null,
+    "doneness_cue": "chicken pieces are almost done",
+    "timestamp": null,
+    "evidence": "Now, let's turn on the stove... Now, let's close the lid... the chicken pieces are almost done"
+   },
+   {
+    "step_no": 4,
+    "description": "Strain the stock from the chicken and spices. Adjust the quantity of stock with boiling water if necessary.",
+    "techniques": [
+     "straining"
+    ],
+    "utensils": [
+     "sieve"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "strain the onions and everything else through a sieve... add more boiling water to adjust the stock"
+   },
+   {
+    "step_no": 5,
+    "description": "Sauté onions in a combination of ghee and oil until golden brown.",
+    "techniques": [
+     "sautéing"
+    ],
+    "utensils": [
+     "pot"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "golden and brown",
+    "timestamp": null,
+    "evidence": "In the ghee combination, add these two onions... sauté a golden brown"
+   },
+   {
+    "step_no": 6,
+    "description": "Add chicken pieces to the fried onions and sauté for 2-3 minutes.",
+    "techniques": [
+     "sautéing"
+    ],
+    "utensils": [],
+    "heat_level": "medium",
+    "duration": "2-3 minutes",
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "put our chicken pieces in it and sauté it a little... for about two or three minutes"
+   },
+   {
+    "step_no": 7,
+    "description": "Add yogurt to the chicken and onion mixture and cook for 5-10 minutes.",
+    "techniques": [
+     "simmering"
+    ],
+    "utensils": [],
+    "heat_level": "low",
+    "duration": "5-10 minutes",
+    "doneness_cue": "oil separating",
+    "timestamp": null,
+    "evidence": "add yogurt... cook it with yogurt for about five to ten minutes... the oil is separating"
+   },
+   {
+    "step_no": 8,
+    "description": "Add the strained stock and coriander/mint leaves to the chicken mixture and bring to a boil.",
+    "techniques": [
+     "boiling"
+    ],
+    "utensils": [],
+    "heat_level": "high",
+    "duration": null,
+    "doneness_cue": "starting to boil",
+    "timestamp": null,
+    "evidence": "add the stock in measured amounts... add some coriander leaves... It's starting to boil now"
+   },
+   {
+    "step_no": 9,
+    "description": "Add the soaked rice to the boiling stock mixture.",
+    "techniques": [
+     "assembly"
+    ],
+    "utensils": [],
+    "heat_level": "high",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "We've washed and drained the rice... I have poured six cups of stock into it"
+   },
+   {
+    "step_no": 10,
+    "description": "Seal the pot lid and cook on low heat until the water is absorbed and rice is cooked.",
+    "techniques": [
+     "steaming",
+     "sealing"
+    ],
+    "utensils": [
+     "lid",
+     "dosa stone"
+    ],
+    "heat_level": "low",
+    "duration": null,
+    "doneness_cue": "moisture will be completely gone",
+    "timestamp": null,
+    "evidence": "seal it like we're putting on a lid... put a dosa stone at the bottom... moisture will be completely gone"
+   },
+   {
+    "step_no": 11,
+    "description": "Serve the pulao topped with reserved fried onions.",
+    "techniques": [
+     "serving"
+    ],
+    "utensils": [],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "decorate it with what we've already set aside... top it with fried onions"
+   }
+  ],
+  "techniques": [
+   {
+    "name": "soaking",
+    "native_term": null,
+    "category": "soaking_resting",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "soaked it well... soaks for at least two hours"
+   },
+   {
+    "name": "boiling",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "boiled in that stock... let it boil"
+   },
+   {
+    "name": "straining",
+    "native_term": null,
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "strain the onions and everything else through a sieve"
+   },
+   {
+    "name": "sautéing",
+    "native_term": null,
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "sauté a golden brown... sauté it a little"
+   },
+   {
+    "name": "simmering",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "Simmering means putting it on a low flame"
+   },
+   {
+    "name": "steaming",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "implied",
+    "evidence": "cook the remaining rice with steam... seal it"
+   }
+  ]
+ },
+ "utensils_and_equipment": [
+  {
+   "name": "pot",
+   "native_term": null,
+   "category": "cookware",
+   "type": "modern",
+   "material": null,
+   "purpose": "Cooking the stock and pulao",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "add a lot of things to a pot"
+  },
+  {
+   "name": "lid",
+   "native_term": null,
+   "category": "cookware",
+   "type": "modern",
+   "material": "glass",
+   "purpose": "Sealing the pot to trap steam",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "Since it's a glass top, we can close it like this"
+  },
+  {
+   "name": "sieve",
+   "native_term": null,
+   "category": "prep_tool",
+   "type": "modern",
+   "material": null,
+   "purpose": "Straining the stock",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "strain the onions and everything else through a sieve"
+  },
+  {
+   "name": "pestle",
+   "native_term": null,
+   "category": "grinding_pounding",
+   "type": "traditional",
+   "material": null,
+   "purpose": "Crushing ginger",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "crush it with a pestle"
+  },
+  {
+   "name": "dosa stone",
+   "native_term": null,
+   "category": "heat_source",
+   "type": "traditional",
+   "material": "stone",
+   "purpose": "Placing under the pot for even heat distribution",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "I put a dosa stone at the bottom and then transferred the pot on top of it"
+  },
+  {
+   "name": "stove",
+   "native_term": null,
+   "category": "heat_source",
+   "type": "modern",
+   "material": null,
+   "purpose": "Heat source",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "Now, let's turn on the stove"
+  }
+ ],
+ "health_benefits": [],
+ "sustainability_practices": [
+  {
+   "practice": "Use of home-grown garden ingredients (chili peppers, mint, coriander)",
+   "category": "home_grown",
+   "timestamp": null,
+   "evidence_type": "implied",
+   "evidence": "our chili peppers... add some coriander leaves to it, and also some mint"
+  }
+ ],
+ "unique_aspects": [
+  {
+   "aspect": "Yakhni method: Cooking rice in a rich, spiced stock rather than layering",
+   "category": "indigenous_technique",
+   "description": "The dish is defined by boiling spices and meat in water to create a stock, then cooking the rice in that same stock, distinct from layered biryani.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "Yakhni Biryani... cooked with a lot of spices... boiled in that stock, and the rice is cooked in that water"
+  },
+  {
+   "aspect": "Use of yogurt as a key flavoring and tenderizing agent",
+   "category": "ingredient_combination",
+   "description": "A significant quantity of yogurt is added to the chicken and onion mixture before adding the stock.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "yogurt is a special ingredient in this Akni Pulao... You need to add a cup of yogurt"
+  },
+  {
+   "aspect": "Use of a dosa stone under the pot",
+   "category": "fire_or_clay_cooking",
+   "description": "A traditional stone is placed under the pot to manage heat distribution during the final cooking stage.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "I put a dosa stone at the bottom and then transferred the pot on top of it"
+  },
+  {
+   "aspect": "Persian etymology of the dish name",
+   "category": "other",
+   "description": "The speaker explains that 'Yakhni' is a Persian word for stock or broth.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "The word Yakhni means it's a Persian word... Yakhni means... it's like a stock"
+  }
+ ],
+ "extraction_notes": {
+  "asr_issues": [
+   "The transcript contains a long, unrelated segment about shopping for sarees and discussing prices, which is excluded from the culinary extraction.",
+   "Some terms are transliterated inconsistently (e.g., 'Yakhni', 'Akni', 'Yakni').",
+   "The phrase 'Piriin chili powder' is likely a mishearing of a specific local chili variety or brand, but is recorded as spoken."
+  ],
+  "ambiguities": [
+   "The exact type of 'sel rice' is not specified beyond the name.",
+   "The specific heat source (gas vs electric) is not explicitly stated, only 'stove' and 'open fire' are mentioned."
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "video_id": "_6aH_S-BSVo",
+ "model": "qwen_3.8_27B",
+ "source": "native",
+ "ingredients": [
+  {
+   "scientific_name": "Oryza sativa",
+   "english_name": "rice",
+   "native_name": "റൈസ്"
+  },
+  {
+   "scientific_name": "Gallus gallus domesticus",
+   "english_name": "chicken",
+   "native_name": "ചിക്കൻ"
+  },
+  {
+   "scientific_name": "",
+   "english_name": "water",
+   "native_name": "വെള്ളം"
+  },
+  {
+   "scientific_name": "",
+   "english_name": "salt",
+   "native_name": "ഉപ്പ്"
+  },
+  {
+   "scientific_name": "",
+   "english_name": "oil",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "ghee",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "yogurt",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Allium cepa",
+   "english_name": "onion",
+   "native_name": "വെളുത്തുള്ളി"
+  },
+  {
+   "scientific_name": "Allium sativum",
+   "english_name": "garlic",
+   "native_name": "പച്ചമുളക്"
+  },
+  {
+   "scientific_name": "Capsicum annuum",
+   "english_name": "green chilli",
+   "native_name": "സവാൾ"
+  },
+  {
+   "scientific_name": "Solanum lycopersicum",
+   "english_name": "tomato",
+   "native_name": "ടൊമാറ്റോ"
+  },
+  {
+   "scientific_name": "Cuminum cyminum",
+   "english_name": "cumin seeds",
+   "native_name": "ജീരകം"
+  }
+ ]
+}

@@ -1,0 +1,344 @@
+{
+ "video_id": "_6aH_S-BSVo",
+ "transcript_language": "Malayalam (ASR)",
+ "dish": {
+  "name": "Chicken Yakhni Pulao",
+  "native_name": "ചിക്കൻ യാഖ്നി പുലാവ്",
+  "region": "Kerala (implied by language and ingredients like Trivandrum chillies)",
+  "community": null,
+  "occasion": "Lunch (after garden renovation)"
+ },
+ "process": {
+  "steps": [
+   {
+    "step_no": 1,
+    "description": "Wash and soak basmati rice in water for 2 hours.",
+    "techniques": [
+     "soaking"
+    ],
+    "utensils": [
+     "bowl"
+    ],
+    "heat_level": null,
+    "duration": "2 hours",
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "കഴുകി നന്നായിട്ട് കുതിരുക വെച്ചു ഒരു ടു അവേഴ്സ്"
+   },
+   {
+    "step_no": 2,
+    "description": "Prepare whole spices (cardamom, cinnamon, cloves, mace, black cardamom) and crushed aromatics (ginger, garlic, green chillies).",
+    "techniques": [
+     "crushing",
+     "slicing"
+    ],
+    "utensils": [
+     "knife",
+     "mortar/pestle (implied by crushing)"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "വലിയ ഉണ്ട വെളുത്തുള്ളി ചതച്ച്... ജസ്ര്റ ഒനന് ക്രഷ് ചെയ്ത"
+   },
+   {
+    "step_no": 3,
+    "description": "Combine chicken pieces, whole spices, crushed aromatics, ground spices (chilli, coriander, cumin, garam masala), salt, and tomatoes in a pot.",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [
+     "pot"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "ചിക്കൻ്റെ പീസസ്... ഹോൾ സ്പൈസസ്... പൊടികൾ... ടൊമാറോ"
+   },
+   {
+    "step_no": 4,
+    "description": "Add water to the pot, cover, and simmer until the chicken is cooked.",
+    "techniques": [
+     "simmering",
+     "boiling"
+    ],
+    "utensils": [
+     "pot",
+     "lid"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "chicken cooked",
+    "timestamp": null,
+    "evidence": "തിളച്ചു കഴിയുമ്പോൾ... ചിക്കൻ്റെ ആ ഒര സ്ട്രോക്കിൽ... ചേർന്ന വരുന്ന ഒര പാകം"
+   },
+   {
+    "step_no": 5,
+    "description": "Strain the broth (yakhni) from the cooked chicken and spices.",
+    "techniques": [
+     "straining"
+    ],
+    "utensils": [
+     "strainer (implied)"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "ഈ സ്ട്രോക്കിനെ ഒന്ന് അരിച്ചു എടുക്കുക"
+   },
+   {
+    "step_no": 6,
+    "description": "Fry onions in a mixture of ghee and oil until golden brown.",
+    "techniques": [
+     "frying"
+    ],
+    "utensils": [
+     "pan/kadai"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "golden brown",
+    "timestamp": null,
+    "evidence": "സവളാ ഗോൾഡ് ആൻഡ് ബ്രൗൺ ആയിക്കൊണ്ടിരിക്കുന്നു"
+   },
+   {
+    "step_no": 7,
+    "description": "Add the cooked chicken pieces to the fried onions and sauté for 1-3 minutes.",
+    "techniques": [
+     "sautéing"
+    ],
+    "utensils": [
+     "pan/kadai"
+    ],
+    "heat_level": "medium",
+    "duration": "1-3 minutes",
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "ചിക്കൻ്റെ പീസസ്... വഴറ്റി കൊടുക്കാം... ഒര രണ്ട മൂന്ന് മിനിറ്റ്"
+   },
+   {
+    "step_no": 8,
+    "description": "Add the strained broth, the fried onion-chicken mixture, and one cup of yogurt (dahi) to the pot.",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [
+     "pot"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "ബ്രോത്ത് പാത്രം... തൈർ ഒഴിക്കുന്നത്... ഒര കപ്പോളം തൈർ"
+   },
+   {
+    "step_no": 9,
+    "description": "Add the soaked and drained rice to the pot.",
+    "techniques": [
+     "assembly"
+    ],
+    "utensils": [
+     "pot"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "ഇതിൽ റൈസ കഴുകി ഊറി വെച്ചിരിക്കുകയാണ്"
+   },
+   {
+    "step_no": 10,
+    "description": "Cover the pot tightly (seal with dough) and cook on low heat until the rice is done.",
+    "techniques": [
+     "steaming",
+     "sealing"
+    ],
+    "utensils": [
+     "pot",
+     "lid",
+     "dough (for sealing)"
+    ],
+    "heat_level": "low",
+    "duration": null,
+    "doneness_cue": "steam rises, rice cooked",
+    "timestamp": null,
+    "evidence": "ദം ഇടുന്ന പോലെ സീൽ ചെയ്യാം... വാപ്പ് പെർഫെക്റ്റ്"
+   },
+   {
+    "step_no": 11,
+    "description": "Serve the pulao topped with the fried onions.",
+    "techniques": [
+     "serving"
+    ],
+    "utensils": [
+     "plate"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "ഇതിൻ്റെ മുകളിൽ... ഫ്രൈഡ് ഓണിയൻസ്... ടോപ്പ് ചെയ്ത കൊടുക്കാം"
+   }
+  ],
+  "techniques": [
+   {
+    "name": "soaking",
+    "native_term": null,
+    "category": "soaking_resting",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "കഴുകി നന്നായിട്ട് കുതിരുക വെച്ചു"
+   },
+   {
+    "name": "crushing",
+    "native_term": null,
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "ചതച്ചു... ക്രഷ് ചെയ്ത"
+   },
+   {
+    "name": "simmering",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "തിളച്ചു കഴിയുമ്പോൾ"
+   },
+   {
+    "name": "straining",
+    "native_term": null,
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "അരിച്ചു എടുക്കുക"
+   },
+   {
+    "name": "frying",
+    "native_term": null,
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "വഴറ്റി വഴട്ടി വറുകാം"
+   },
+   {
+    "name": "sautéing",
+    "native_term": null,
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "വഴറ്റി കൊടുക്കാം"
+   },
+   {
+    "name": "steaming",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "implied",
+    "evidence": "വാപ്പ് പെർഫെക്റ്റ്... സീൽ ചെയ്യാം"
+   }
+  ]
+ },
+ "utensils_and_equipment": [
+  {
+   "name": "Pot",
+   "native_term": "പാത്രം",
+   "category": "cookware",
+   "type": "traditional",
+   "material": "metal (implied by 'glass top' comment and general usage)",
+   "purpose": "Cooking the yakhni and pulao",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "ഒരു പാത്രത്തിലേക്ക്... പാത്രം അടച്ചിടാം"
+  },
+  {
+   "name": "Lid",
+   "native_term": "അടപ്പ്",
+   "category": "cookware",
+   "type": "traditional",
+   "material": null,
+   "purpose": "Covering the pot to trap steam",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "അടപ്പ് ഒന്ന് കട്ടിച്ചുകൊടുക്കാം"
+  },
+  {
+   "name": "Dough seal",
+   "native_term": "ദം",
+   "category": "cookware",
+   "type": "traditional",
+   "material": "flour/water",
+   "purpose": "Sealing the lid to prevent steam escape",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "ദം ഇടുന്ന പോലെ സീൽ ചെയ്യാം"
+  },
+  {
+   "name": "Pan/Kadai",
+   "native_term": null,
+   "category": "cookware",
+   "type": "modern",
+   "material": null,
+   "purpose": "Frying onions and sautéing chicken",
+   "timestamps": [],
+   "evidence_type": "implied",
+   "evidence": "വഴറ്റി വഴട്ടി വറുകാം"
+  }
+ ],
+ "health_benefits": [],
+ "sustainability_practices": [
+  {
+   "practice": "Use of local Trivandrum chillies",
+   "category": "local_sourcing",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "നമ്മുടെ ട്രിവൻഡ്രം കോട്ൻ്റെ തൊണ്ട മുളക്"
+  }
+ ],
+ "unique_aspects": [
+  {
+   "aspect": "Yakhni method (Persian origin)",
+   "category": "indigenous_technique",
+   "description": "Cooking meat in a spiced broth (yakhni) and using that same broth to cook the rice, infusing flavor throughout.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "യാഖ്നി... പേർഷ്യൻ വേർഡ്... ബ്രോത്ത്... റൈസ വേവുന്നത"
+  },
+  {
+   "aspect": "Addition of yogurt",
+   "category": "flavor_balancing",
+   "description": "Adding a cup of yogurt (dahi) to the pulao for tanginess and richness, described as a special feature of this dish.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "ഈ യാഖ്നി പുളാവിൻ്റെ ഏറവം വലിയ പ്രത്യേകത... തൈർ നല രീതിയിൽ ചേർക്കണം"
+  },
+  {
+   "aspect": "Sealing with dough",
+   "category": "texture_technique",
+   "description": "Sealing the pot lid with dough to ensure the rice cooks in its own steam and absorbs all the broth.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "ദം ഇടുന്ന പോലെ സീൽ ചെയ്യാം"
+  },
+  {
+   "aspect": "Ghee and Oil combination",
+   "category": "ingredient_combination",
+   "description": "Using a mixture of ghee and oil for frying onions to achieve a specific flavor and crispiness.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "നെയ്യും എണ്ണയും കൂടെ ഉള്ളൊര കോമ്പിനേഷൻ"
+  }
+ ],
+ "extraction_notes": {
+  "asr_issues": [
+   "The transcript contains significant non-cooking content regarding garden renovation and shopping for sarees, which was excluded from the dish extraction.",
+   "Some Malayalam terms are transliterated phonetically and may have slight spelling variations in the ASR output (e.g., 'ചതച്ചു' for crushed, 'വഴറ്റി' for sautéed/fried)."
+  ],
+  "ambiguities": [
+   "The specific type of pot is not named, but 'glass top' is mentioned, suggesting a modern pressure cooker or heavy-bottomed pot with a glass lid, though the dough sealing technique is traditional."
+  ]
+ }
+}

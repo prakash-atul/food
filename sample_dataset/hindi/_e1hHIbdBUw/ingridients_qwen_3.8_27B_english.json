@@ -1,0 +1,77 @@
+{
+ "video_id": "_e1hHIbdBUw",
+ "model": "qwen_3.8_27B",
+ "source": "english",
+ "ingredients": [
+  {
+   "scientific_name": "Cicer arietinum",
+   "english_name": "chickpeas",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "water",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "tea leaves",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "spices",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "ginger",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "garlic",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "ghee",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "salt",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Ferula assa-foetida",
+   "english_name": "asafoetida",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Allium cepa",
+   "english_name": "onion",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Solanum lycopersicum",
+   "english_name": "tomato",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "Coriandrum sativum",
+   "english_name": "coriander leaves",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "degi mirch (red chili powder)",
+   "native_name": ""
+  },
+  {
+   "scientific_name": "",
+   "english_name": "green chilies",
+   "native_name": ""
+  }
+ ]
+}

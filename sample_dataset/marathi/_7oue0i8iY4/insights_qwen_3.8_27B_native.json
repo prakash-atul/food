@@ -1,0 +1,263 @@
+{
+ "video_id": "_7oue0i8iY4",
+ "transcript_language": "Marathi (ASR)",
+ "dish": {
+  "name": "Paneer Akuri",
+  "native_name": "पनीर अकुरी",
+  "region": null,
+  "community": "Parsi",
+  "occasion": null
+ },
+ "process": {
+  "steps": [
+   {
+    "step_no": 1,
+    "description": "Heat oil in a pan and temper with finely chopped green chilies.",
+    "techniques": [
+     "tempering"
+    ],
+    "utensils": [
+     "pan",
+     "oil"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "तेल तापल्यावरती आपण इथे चार मिरच्या घेतलेल्या आहेत बारीक चिरून त्याय फोडणील"
+   },
+   {
+    "step_no": 2,
+    "description": "Add garlic paste and finely chopped onions, sauté until they turn slightly reddish.",
+    "techniques": [
+     "sautéing"
+    ],
+    "utensils": [
+     "pan"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "लालसर रंग",
+    "timestamp": null,
+    "evidence": "लसणच पेस्ट... दोन मध्यम कांद... थोडंसं लालसर रंग"
+   },
+   {
+    "step_no": 3,
+    "description": "Add salt to the onions and continue sautéing until soft and slightly reddish.",
+    "techniques": [
+     "sautéing"
+    ],
+    "utensils": [
+     "pan"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "सॉफ्ट होत",
+    "timestamp": null,
+    "evidence": "कांदा मीठ घालुय... कांदा पण सॉफ्ट होत"
+   },
+   {
+    "step_no": 4,
+    "description": "Add turmeric, coriander powder, red chili powder, and sambar masala (or dhansak masala).",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [
+     "pan"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "हळद... धणजिरा... लाल मिरच... सांभार मसाला"
+   },
+   {
+    "step_no": 5,
+    "description": "Add finely chopped tomatoes and sauté until they become soft.",
+    "techniques": [
+     "sautéing"
+    ],
+    "utensils": [
+     "pan"
+    ],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "सॉग झाल",
+    "timestamp": null,
+    "evidence": "तीन टोमेटो... बारीक चिरलेल... थोडास सॉग झाल"
+   },
+   {
+    "step_no": 6,
+    "description": "Add finely chopped coriander leaves and a little water, mix well, and simmer on low heat.",
+    "techniques": [
+     "simmering"
+    ],
+    "utensils": [
+     "pan"
+    ],
+    "heat_level": "low",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "कोथिंबीर... थोडंसं पानी... गॅस थोडा बारीख करुय"
+   },
+   {
+    "step_no": 7,
+    "description": "Crush 200g of paneer by hand in a large bowl.",
+    "techniques": [
+     "crushing"
+    ],
+    "utensils": [
+     "bowl"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "पनीर... २०० ग्रॅम... हाताने छान कुसकरून घेऊय"
+   },
+   {
+    "step_no": 8,
+    "description": "Add the crushed paneer to the tomato mixture, add a little water, and mix well to keep it moist.",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [
+     "pan"
+    ],
+    "heat_level": "low",
+    "duration": null,
+    "doneness_cue": "ओलसर ठेव",
+    "timestamp": null,
+    "evidence": "पनीर... घालुय... थोडंसं पानी... ओलसर ठेव"
+   },
+   {
+    "step_no": 9,
+    "description": "Turn off the gas and serve the dish.",
+    "techniques": [
+     "serving"
+    ],
+    "utensils": [],
+    "heat_level": "off",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "गॅस बंद करुय... भजी तयार आहे"
+   }
+  ],
+  "techniques": [
+   {
+    "name": "tempering",
+    "native_term": "फोडणी",
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "मिरच्य... फोडणील"
+   },
+   {
+    "name": "sautéing",
+    "native_term": "परतवण",
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "परतून घेऊय"
+   },
+   {
+    "name": "simmering",
+    "native_term": "शिजवण",
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "छान शिजवून घेऊय"
+   },
+   {
+    "name": "crushing",
+    "native_term": "कुसकरण",
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "हाताने छान कुसकरून घेऊय"
+   },
+   {
+    "name": "mixing",
+    "native_term": "मिस करण",
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "छान मिस करून घेऊय"
+   }
+  ]
+ },
+ "utensils_and_equipment": [
+  {
+   "name": "Pan",
+   "native_term": null,
+   "category": "cookware",
+   "type": "modern",
+   "material": null,
+   "purpose": "Cooking the dish",
+   "timestamps": [],
+   "evidence_type": "implied",
+   "evidence": "गॅस ऑन करुय... तेल घालायचं"
+  },
+  {
+   "name": "Bowl",
+   "native_term": "बोल",
+   "category": "prep_tool",
+   "type": "modern",
+   "material": null,
+   "purpose": "Crushing paneer",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "मोठ्या बोलमध्ये घ्यायचं"
+  },
+  {
+   "name": "Gas stove",
+   "native_term": "गॅस",
+   "category": "heat_source",
+   "type": "modern",
+   "material": null,
+   "purpose": "Heating",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "गॅस ऑन करुय"
+  }
+ ],
+ "health_benefits": [],
+ "sustainability_practices": [],
+ "unique_aspects": [
+  {
+   "aspect": "Parsi origin of Akuri",
+   "category": "regional_flavor",
+   "description": "The speaker identifies Akuri as a Parsi dish, noting that this version uses paneer instead of the traditional egg base.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "ही पारसी डिश आहे... फक्त एवढाच फरक आहे की आपण ही पनीर अकुरी करतो"
+  },
+  {
+   "aspect": "Use of Dhansak Masala",
+   "category": "ingredient_combination",
+   "description": "The speaker suggests using Dhansak masala as a specific Parsi spice blend for authentic flavor, substituting for Sambar masala if available.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "धनसक मसाला... हा स्पेशली पारसी मसाले आहे"
+  },
+  {
+   "aspect": "Moist texture preference",
+   "category": "texture_technique",
+   "description": "Water is added specifically to keep the dish moist rather than dry, distinguishing it from a dry bhaji.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "सुकं करायचं नाही... थोडीशी याची ओलसर ठेवायची"
+  }
+ ],
+ "extraction_notes": {
+  "asr_issues": [
+   "The ASR output contains some phonetic approximations for Marathi words (e.g., 'कमी इनग्रेडियंट्समध्ये' for 'कमी इंग्रिडिंट्समध्ये', 'पनीर आकुरी' for 'पनीर अकुरी').",
+   "The term 'धणजिरा' is likely a mishearing of 'धणे-जिरा' (coriander-cumin) or just 'धणे' (coriander) given the context of 'पावडर' (powder) following it, but 'धणे' (coriander) is the standard spice here. The transcript says 'धणजिरा पावडर' which is ambiguous but likely refers to coriander powder."
+  ],
+  "ambiguities": [
+   "The specific type of pan is not named, only implied by the cooking method on a gas stove."
+  ]
+ }
+}

@@ -1,0 +1,250 @@
+{
+ "video_id": "_7oue0i8iY4",
+ "transcript_language": "English (translated from Marathi (ASR))",
+ "dish": {
+  "name": "Paneer Akuri",
+  "native_name": "Akuri",
+  "region": null,
+  "community": "Parsi",
+  "occasion": null
+ },
+ "process": {
+  "steps": [
+   {
+    "step_no": 1,
+    "description": "Heat oil in a pan.",
+    "techniques": [
+     "heating"
+    ],
+    "utensils": [
+     "pan",
+     "gas stove"
+    ],
+    "heat_level": "high",
+    "duration": null,
+    "doneness_cue": "oil is hot",
+    "timestamp": null,
+    "evidence": "Turn on the gas. We need to add oil to it. After the oil is hot"
+   },
+   {
+    "step_no": 2,
+    "description": "Temper with green chilies and ginger-garlic paste.",
+    "techniques": [
+     "tempering"
+    ],
+    "utensils": [],
+    "heat_level": "high",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "add four finely chopped green chilies to the tempering. Add ginger-garlic paste."
+   },
+   {
+    "step_no": 3,
+    "description": "Sauté chopped onions until reddish and soft, adding salt.",
+    "techniques": [
+     "sautéing"
+    ],
+    "utensils": [],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "turns a little reddish",
+    "timestamp": null,
+    "evidence": "sauté it well, a little on the reddish side... Once it turns a little reddish"
+   },
+   {
+    "step_no": 4,
+    "description": "Add spices (turmeric, coriander, red chili, Sambhar masala) and mix.",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "add all the spices to it... Mix it well."
+   },
+   {
+    "step_no": 5,
+    "description": "Add chopped tomatoes and sauté until mushy and oil separates.",
+    "techniques": [
+     "sautéing"
+    ],
+    "utensils": [],
+    "heat_level": "medium",
+    "duration": null,
+    "doneness_cue": "tomatoes are a little mushy... releasing a good amount of oil",
+    "timestamp": null,
+    "evidence": "add tomatoes to it immediately... Once the tomatoes are a little mushy"
+   },
+   {
+    "step_no": 6,
+    "description": "Add coriander leaves and water, then reduce heat and cook.",
+    "techniques": [
+     "simmering"
+    ],
+    "utensils": [],
+    "heat_level": "low",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "add finely chopped coriander leaves... Turn the heat down a bit and let it cook nicely."
+   },
+   {
+    "step_no": 7,
+    "description": "Mash paneer in a bowl.",
+    "techniques": [
+     "mashing"
+    ],
+    "utensils": [
+     "bowl"
+    ],
+    "heat_level": null,
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "take 250 grams of paneer and put it in this large bowl, and then mash it up nicely"
+   },
+   {
+    "step_no": 8,
+    "description": "Add crumbled paneer to the tomato mixture, add water, and stir.",
+    "techniques": [
+     "mixing"
+    ],
+    "utensils": [],
+    "heat_level": "low",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "add the crumbled paneer to it. Mix it all together nicely. Let's add a little water"
+   },
+   {
+    "step_no": 9,
+    "description": "Turn off heat and garnish with coriander leaves.",
+    "techniques": [
+     "garnishing"
+    ],
+    "utensils": [],
+    "heat_level": "off",
+    "duration": null,
+    "doneness_cue": null,
+    "timestamp": null,
+    "evidence": "Let's turn off the gas... Sprinkle some coriander leaves"
+   }
+  ],
+  "techniques": [
+   {
+    "name": "tempering",
+    "native_term": null,
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "add four finely chopped green chilies to the tempering"
+   },
+   {
+    "name": "sautéing",
+    "native_term": null,
+    "category": "fat_based",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "We need to sauté it well"
+   },
+   {
+    "name": "mashing",
+    "native_term": null,
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "mash it up nicely with your hands"
+   },
+   {
+    "name": "simmering",
+    "native_term": null,
+    "category": "moist_heat",
+    "timestamps": [],
+    "evidence_type": "implied",
+    "evidence": "Turn the heat down a bit and let it cook nicely"
+   },
+   {
+    "name": "mixing",
+    "native_term": null,
+    "category": "mechanical_prep",
+    "timestamps": [],
+    "evidence_type": "explicit",
+    "evidence": "Mix it well"
+   }
+  ]
+ },
+ "utensils_and_equipment": [
+  {
+   "name": "gas stove",
+   "native_term": null,
+   "category": "heat_source",
+   "type": "modern",
+   "material": null,
+   "purpose": "heating",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "Turn on the gas"
+  },
+  {
+   "name": "pan",
+   "native_term": null,
+   "category": "cookware",
+   "type": "unclear",
+   "material": null,
+   "purpose": "cooking",
+   "timestamps": [],
+   "evidence_type": "implied",
+   "evidence": "We need to add oil to it"
+  },
+  {
+   "name": "bowl",
+   "native_term": null,
+   "category": "prep_tool",
+   "type": "unclear",
+   "material": null,
+   "purpose": "mashing paneer",
+   "timestamps": [],
+   "evidence_type": "explicit",
+   "evidence": "put it in this large bowl"
+  }
+ ],
+ "health_benefits": [],
+ "sustainability_practices": [],
+ "unique_aspects": [
+  {
+   "aspect": "Parsi origin of the dish",
+   "category": "regional_flavor",
+   "description": "The dish is identified as a Parsi dish, with 'Akuri' being the traditional name.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "When we say \"Akuri,\" we immediately know that it's a Parsi dish."
+  },
+  {
+   "aspect": "Use of Dhansak masala",
+   "category": "ingredient_combination",
+   "description": "Dhansak masala is highlighted as a special Parsi spice that can be used for authentic flavor.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "you can use Dhansak masala. This is a special Parsi spice"
+  },
+  {
+   "aspect": "Oil separation as doneness cue",
+   "category": "doneness_indicator",
+   "description": "The tomato mixture is considered ready for paneer addition when it releases oil.",
+   "timestamp": null,
+   "evidence_type": "explicit",
+   "evidence": "It's also releasing a good amount of oil."
+  }
+ ],
+ "extraction_notes": {
+  "asr_issues": [
+   "The transcript contains a repetitive/contradictory sentence: 'If you have Sambhar Masala, you can use that too. If not, you can use Sambhar Masala.' This likely indicates an ASR error or speaker slip, but the intent to use Sambhar Masala is clear."
+  ],
+  "ambiguities": [
+   "The specific type of pan (kadai, tawa, etc.) is not named, only implied by the action of adding oil and sautéing."
+  ]
+ }
+}
